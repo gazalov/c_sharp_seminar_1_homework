@@ -1,0 +1,15 @@
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\obj\Debug\net7.0\Task_8.csproj.AssemblyReference.cache
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\obj\Debug\net7.0\Task_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\obj\Debug\net7.0\Task_8.AssemblyInfoInputs.cache
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\obj\Debug\net7.0\Task_8.AssemblyInfo.cs
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\obj\Debug\net7.0\Task_8.csproj.CoreCompileInputs.cache
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\bin\Debug\net7.0\Task_8.exe
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\bin\Debug\net7.0\Task_8.deps.json
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\bin\Debug\net7.0\Task_8.runtimeconfig.json
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\bin\Debug\net7.0\Task_8.dll
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\bin\Debug\net7.0\Task_8.pdb
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\obj\Debug\net7.0\Task_8.dll
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\obj\Debug\net7.0\refint\Task_8.dll
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\obj\Debug\net7.0\Task_8.pdb
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\obj\Debug\net7.0\Task_8.genruntimeconfig.cache
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_8\obj\Debug\net7.0\ref\Task_8.dll
