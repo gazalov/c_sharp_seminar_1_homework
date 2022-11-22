@@ -1,0 +1,15 @@
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\bin\Debug\net7.0\Task_2.exe
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\bin\Debug\net7.0\Task_2.deps.json
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\bin\Debug\net7.0\Task_2.runtimeconfig.json
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\bin\Debug\net7.0\Task_2.dll
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\bin\Debug\net7.0\Task_2.pdb
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\obj\Debug\net7.0\Task_2.csproj.AssemblyReference.cache
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\obj\Debug\net7.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfoInputs.cache
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfo.cs
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\obj\Debug\net7.0\Task_2.csproj.CoreCompileInputs.cache
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\obj\Debug\net7.0\Task_2.dll
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\obj\Debug\net7.0\refint\Task_2.dll
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\obj\Debug\net7.0\Task_2.pdb
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\obj\Debug\net7.0\Task_2.genruntimeconfig.cache
+C:\My_files\git\lesson_1015\c#\c_sharp_seminar_1_homework\Task_2\obj\Debug\net7.0\ref\Task_2.dll
